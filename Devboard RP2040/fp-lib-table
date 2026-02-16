@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "symbols")(type "KiCad")(uri "/Users/andrewwong/Documents/KiCad/9.0/symbols")(options "")(descr ""))
+)
